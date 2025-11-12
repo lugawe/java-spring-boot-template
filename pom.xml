@@ -129,6 +129,13 @@
                             <order>java,jakarta,javax,org.springframework</order>
                         </importOrder>
                     </java>
+                    <yaml>
+                        <includes>
+                            <include>**/*.yml</include>
+                            <include>**/*.yaml</include>
+                        </includes>
+                        <jackson/>
+                    </yaml>
                 </configuration>
             </plugin>
 
