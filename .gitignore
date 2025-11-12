@@ -12,4 +12,4 @@ target/
 .settings/
 
 # Spring Boot
-h2/
+.db/
