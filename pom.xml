@@ -16,7 +16,7 @@
         <encoding>UTF-8</encoding>
         <java.version>21</java.version>
         <!-- dependencies -->
-        <spring-boot.version>3.5.6</spring-boot.version>
+        <spring-boot.version>3.5.7</spring-boot.version>
     </properties>
 
     <dependencyManagement>
